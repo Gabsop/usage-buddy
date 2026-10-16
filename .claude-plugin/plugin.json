@@ -1,0 +1,1 @@
+{ "name": "usage-buddy", "version": "0.1.0", "description": "Claude mascot above the prompt with your 5-hour and weekly plan usage", "author": { "name": "mteusbarbosa" }, "homepage": "https://github.com/mteusbarbosa/usage-buddy", "types": "./types/index.d.ts" }
