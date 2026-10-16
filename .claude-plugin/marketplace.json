@@ -1,5 +1,6 @@
 {
   "name": "usage-buddy",
   "owner": { "name": "mteusbarbosa" },
+  "metadata": { "description": "Clawd mascot and plan usage bars above the Claude Code prompt" },
   "plugins": [{ "name": "usage-buddy", "source": "./" }]
 }
